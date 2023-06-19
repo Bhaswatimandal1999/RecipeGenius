@@ -3,21 +3,17 @@ website for recipe recommendation app
 
 Welcome to Recipe Genius it's a recipe recommendation app.
 This is an indivisual Project from Masai School. I have done this during the Construct Week within 5 Days. Deployed URL 👉 (https://tubular-dasik-3c46db.netlify.app)
-
+This App is responsive
 
 Bhaswati Mandal (My Linkedin profile :-https://www.linkedin.com/in/bhaswati-mandal-0a4211257/)
 
-💻 Tech Stack
+💻 Tech Stack:
 
-image image image
+HTML   CSS   JavaScript
 
-Tools
+Tools:
 
-image image image image
-
-
-Responsiveness of the page:
-
+Netlify   GitHub   Visual Studio
 
 
 My Learnings On this journey I faced many issues, but I keep patience.
